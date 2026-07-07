@@ -213,9 +213,11 @@ React-Recipe/
 │   │   └── SignUp.jsx
 │   ├── components/     # Reusable components
 │   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
 │   │   ├── RecipeCard.jsx
 │   │   ├── StarRating.jsx
 │   │   ├── AdminNavbar.jsx
+│   │   ├── AdminCard.jsx
 │   │   ├── AdminPending.jsx
 │   │   ├── AdminSingleRecipe.jsx
 │   │   └── AdminUpdateRecipe.jsx
@@ -230,6 +232,8 @@ React-Recipe/
 │   │   └── Admin.jsx
 │   ├── routes/         # Route configuration
 │   │   └── Mainroutes.jsx
+│   ├── utils/          # Utility modules
+│   │   └── Axios.js
 │   ├── style/          # CSS files
 │   │   └── App.css
 │   ├── App.jsx         # Main app component
@@ -240,21 +244,6 @@ React-Recipe/
 ├── tailwind.config.js
 └── eslint.config.js
 ```
-
----
-
-## 🖼️ Screenshots
-
-> Add screenshots of your application here to showcase the UI
-
-### Home Page
-![Home Page](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
-
-### Recipe Details
-![Recipe Details](https://via.placeholder.com/800x400?text=Recipe+Details+Screenshot)
-
-### Admin Dashboard
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard+Screenshot)
 
 ---
 
@@ -278,9 +267,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Contact
 
-**Rohit Rajak** - [@rohitrajak2004](https://github.com/rohitrajak2004)
+**Rohit Rajak** - [@rohit0git1](https://github.com/rohit0git1)
 
-Project Link: [https://github.com/rohitrajak2004/React-Recipe](https://github.com/rohitrajak2004/React-Recipe)
+Project Link: [https://tastebite-seven.vercel.app/](https://tastebite-seven.vercel.app/)
 
 ---
 
